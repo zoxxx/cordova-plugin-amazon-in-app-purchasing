@@ -1,4 +1,5 @@
 # Cordova/ PhoneGap Plugin Amazon In-App Purchasing v2.0
+------
 
 By using this Cordova plugin within your app, you enable your customers to use 1-Click ordering to purchase items from Amazon. The plugin will work with Cordova / PhoneGap >= 3.0. It completely wraps Amazon IAP v2.0 API so you can offer consumables, entitlements, or subscriptions in your app.
 
@@ -6,11 +7,11 @@ By using this Cordova plugin within your app, you enable your customers to use 1
 
 For Cordova:
 
-	cordova plugin add https://github.com/zoxxx/cordova-plugin-amazon-in-app-purchasing.git
+    cordova plugin add https://github.com/zoxxx/cordova-plugin-amazon-in-app-purchasing.git
 
 For PhoneGap:
 
-	phonegap local plugin add https://github.com/zoxxx/cordova-plugin-amazon-in-app-purchasing.git
+    phonegap local plugin add https://github.com/zoxxx/cordova-plugin-amazon-in-app-purchasing.git
 
 ## Usage
 
