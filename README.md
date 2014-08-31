@@ -5,9 +5,11 @@ By using this Cordova plugin within your app, you enable your customers to use 1
 ## Installation
 
 For Cordova:
+
 	cordova plugin add https://github.com/zoxxx/cordova-plugin-amazon-in-app-purchasing.git
 
 For PhoneGap:
+
 	phonegap local plugin add https://github.com/zoxxx/cordova-plugin-amazon-in-app-purchasing.git
 
 ## Usage
